@@ -1,6 +1,6 @@
 # Controllable Lyric Translation
 This is the official implementation of the paper [Songs Across Borders: Singable and Controllable Neural Lyric Translation](https://arxiv.org/abs/2305.16816) (ACL 2023).
-Through explicit control using prompt-based fine-tuning, we achieve effective singability quality gain the translation output. Please check out 
+Through explicit control using prompt-based fine-tuning, we achieve effective singability quality gain in the translation output. Please check out 
 our [translation demo here](https://www.oulongshen.xyz/lyric_translation).
 This implementation is in the direction of English-to-Chinese.
 
